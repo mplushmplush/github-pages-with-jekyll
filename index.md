@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to my blog/site
 
-I'm glad you are here. I plan to talk about ...
+I am here to build something for M Plus H.

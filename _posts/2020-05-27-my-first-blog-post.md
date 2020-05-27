@@ -1,5 +1,4 @@
-Learning Git Hub 
 ---
-title: "Welcome to my blog"
+title: Welcome to M Plus H
 date: 2020-05-27
 ---
